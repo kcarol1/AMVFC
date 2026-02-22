@@ -28,7 +28,7 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 @article{Xiao2026AMVFC,
-  author  = {Xiao, Luxi and Wang, Huajun and Ye, Chengming},
+  author  = {Xiao, Luxi and Liu, Shujun and Liu, Yang},
   title   = {Anchor-Guided Multi-View Fuzzy Clustering for Hyperspectral and LiDAR Images},
   journal = {Scientific Reports},
   year    = {2026},
