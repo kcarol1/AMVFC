@@ -1,0 +1,12 @@
+*.log
+*.pdf
+*.pyc*
+*log*
+*.png
+*.tar.gz
+*.mat
+*.ipynb
+*.svg
+*.zip
+.vsccode/
+__pycache__/
